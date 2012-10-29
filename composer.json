@@ -1,6 +1,6 @@
 {
     "name": "recurly/recurly-client-php",
     "require": {
-        "php": ">=5.3.0",
+        "php": ">=5.3.0"
     }
 }

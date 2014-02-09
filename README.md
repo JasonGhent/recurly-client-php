@@ -1,5 +1,5 @@
 ##NOTE
-This repo was created to add recurly's official API to packagist for Composer at a time that it did not exist. If you are looking for the client proper, please visit the repo this one is forked from.
+This repo was created to add Recurly's official PHP SDK to packagist for Composer at a time that it did not exist. If you are looking for the maintained client, please visit the repo this one is forked from.
 
 # Recurly PHP Client
 

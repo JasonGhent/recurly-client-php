@@ -1,3 +1,6 @@
+##NOTE
+This repo was created to add recurly's official API to packagist for Composer at a time that it did not exist. If you are looking for the client proper, please visit the repo this one is forked from.
+
 # Recurly PHP Client
 
 The Recurly PHP Client library is an open source library to interact with Recurly's subscription management from your PHP website. The library interacts with Recurly's [REST API](http://support.recurly.com/faqs/api).
